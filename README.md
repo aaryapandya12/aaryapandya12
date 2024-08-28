@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on [How Corruption can be reduced using technology](NA)
+- 🔭 I’m currently working on [Integrating Bitmoji Feature in E-Commerce Platform to increase user engagement](NA)
 
 - 🌱 I’m currently learning **React**
 
