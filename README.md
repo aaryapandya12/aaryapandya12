@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Integrating Bitmoji Feature in E-Commerce Platform to increase user engagement](NA)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryapandya12](https://github.com/aaryapandya12)
 
