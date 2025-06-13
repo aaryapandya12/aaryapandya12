@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 🔭 I’m currently working on [Integrating Bitmoji Feature in E-Commerce Platform to increase user engagement](NA)
-
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aaryapandya12](https://github.com/aaryapandya12)
 
