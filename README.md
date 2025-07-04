@@ -16,7 +16,6 @@
 - 👯 Looking to collaborate on **open-source Java/ML projects**
 - 💬 Ask me about **Java, Spring Boot, or Data Science**
 - 📫 Reach me: **aaryapandya611@gmail.com**
-- ⚡ Fun fact: **I love astronomy and astrophotography**
 
 ---
 
@@ -94,6 +93,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/aaryapandya12/aaryapandya12/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+![Snake animation](https://github.com/aaryapandya12/aaryapandya12/blob/output/github-contribution-grid-snake.svg)
