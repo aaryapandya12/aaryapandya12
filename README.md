@@ -9,6 +9,36 @@
 
 - 📫 How to reach me **aaryapandya611@gmail.com**
 
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aaryapandya12&theme=darkhub&margin-w=10&margin-h=10" alt="trophies" />
+  </a>
+</p>
+
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryapandya12&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<h3 align="left">📈 Streak Stats</h3>
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=aaryapandya12&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
+<h3 align="left">📌 Most Used Languages</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapandya12&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<h3 align="left">👁️ Profile Views</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aaryapandya12&style=flat-square" alt="Profile Views" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaryapandya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryapandya" height="30" width="40" /></a>
