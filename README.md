@@ -112,11 +112,12 @@
 ---
 <div align="center">
   
-  ![Metrics](https://metrics.lecoq.io/aaryapandya12?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aaryapandya12&data=followers,repositories,stars,commits)](https://github.com/aaryapandya12)
 
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
+  <br>
+  <em>Keep coding, keep creating! ✨</em>
 </p>
