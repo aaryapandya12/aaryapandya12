@@ -104,6 +104,7 @@
 <div align="center">
 
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryapandya12&theme=github_dark)
+    
     *"The best way to predict the future is to implement it."* — David Heinemeier Hansson
 
 </div>
