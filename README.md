@@ -111,13 +111,13 @@
 
 ---
 <div align="center">
+
+  #### 🏅 Professional Highlights
   
-  ![Visitor Count](https://profile-counter.glitch.me/aaryapandya12/count.svg)
+  [![Years Coding](https://badges.pufler.dev/years/aaryapandya12?color=blue&style=flat)](https://badges.pufler.dev)
+  [![Repos](https://badges.pufler.dev/repos/aaryapandya12?color=blue&style=flat)](https://badges.pufler.dev)
+  [![Commits](https://badges.pufler.dev/commits/monthly/aaryapandya12)](https://badges.pufler.dev)
+  
+  *"The only way to do great work is to love what you do."* — Steve Jobs
 
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150">
-  <br>
-  <em>Thanks for visiting! ❤️</em>
-</p>
