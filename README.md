@@ -112,12 +112,8 @@
 ---
 <div align="center">
 
-  #### 🏅 Professional Highlights
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryapandya12&theme=github_dark)
   
-  [![Years Coding](https://badges.pufler.dev/years/aaryapandya12?color=blue&style=flat)](https://badges.pufler.dev)
-  [![Repos](https://badges.pufler.dev/repos/aaryapandya12?color=blue&style=flat)](https://badges.pufler.dev)
-  [![Commits](https://badges.pufler.dev/commits/monthly/aaryapandya12)](https://badges.pufler.dev)
-  
-  *"The only way to do great work is to love what you do."* — Steve Jobs
+  *"Excellence is not a skill, it's an attitude."* — Ralph Marston
 
 </div>
