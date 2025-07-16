@@ -112,12 +112,12 @@
 ---
 <div align="center">
   
-  ![Workflow](https://github-readme-activity-graph.vercel.app/graph?username=aaryapandya12&theme=react-dark&hide_border=true&area=true)
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="150">
   <br>
-  <em>"First, solve the problem. Then, write the code." - John Johnson</em>
+  <em>"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie</em>
 </p>
