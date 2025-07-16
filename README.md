@@ -112,12 +112,12 @@
 ---
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ![Visitor Count](https://profile-counter.glitch.me/aaryapandya12/count.svg)
 
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150">
   <br>
-  <em>"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie</em>
+  <em>Thanks for visiting! ❤️</em>
 </p>
