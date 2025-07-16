@@ -17,7 +17,6 @@
   - 👯 Looking to collaborate on **open-source Java/ML projects**
   - 💬 Ask me about **Java, Spring Boot, or Data Science**
   - 📫 Reach me: **aaryapandya611@gmail.com**
-  - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 </p>
 
 ---
@@ -29,13 +28,11 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </div>
 
 #### 🔹 Frontend Development
 <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
@@ -51,7 +48,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
 #### 🔹 Data Science & AI/ML
@@ -90,17 +86,6 @@
 
 ---
 
-### 🌟 Recent Projects
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaryapandya12&repo=awesome-project-1&theme=radical)](https://github.com/aaryapandya12/awesome-project-1)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaryapandya12&repo=awesome-project-2&theme=radical)](https://github.com/aaryapandya12/awesome-project-2)
-  
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
@@ -126,16 +111,14 @@
 
 ---
 
-### 🎧 Currently Listening To
-
-[![Spotify](https://novatorem-aaryapandya12.vercel.app/api/spotify)](https://open.spotify.com/user/aaryapandya12)
-
----
-
 <div align="center">
-  <img src="https://github.com/aaryapandya12/aaryapandya12/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aaryapandya12&data=followers,repositories,stars,commits)](https://github.com/aaryapandya12)
+
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
+  <br>
+  <em>Keep coding, keep creating! ✨</em>
 </p>
