@@ -112,12 +112,12 @@
 ---
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aaryapandya12&data=followers,repositories,stars,commits)](https://github.com/aaryapandya12)
+  ![Workflow](https://github-readme-activity-graph.vercel.app/graph?username=aaryapandya12&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="150">
   <br>
-  <em>Keep coding, keep creating! ✨</em>
+  <em>"First, solve the problem. Then, write the code." - John Johnson</em>
 </p>
