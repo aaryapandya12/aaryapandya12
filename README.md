@@ -89,31 +89,21 @@
 ### 📫 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/aaryapandya" target="_blank">
+  <a href="https://www.linkedin.com/in/aarya-pandya-075588229/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/aaryapandya12" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://kaggle.com/aaryapan12" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-  <a href="https://instagram.com/_aaryap12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:aaryapandya611@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/aaryapandya12/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
-  </a>
+  <a href="https://www.hackerrank.com/profile/aaryapandya611" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
 </div>
 
 ---
 <div align="center">
 
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaryapandya12&theme=github_dark)
-  
-  *"Excellence is not a skill, it's an attitude."* — Ralph Marston
+    *"The best way to predict the future is to implement it."* — David Heinemeier Hansson
 
 </div>
